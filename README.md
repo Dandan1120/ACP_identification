@@ -1,13 +1,11 @@
 # 基于自然语言处理技术的抗癌肽识别  
 *A Deep Learning and NLP-based Framework for Anticancer Peptide (ACP) Prediction*  
-> 项目信息来源：哈尔滨工业大学《大学生创新训练计划项目中期检查报告》:contentReference[oaicite:1]{index=1}
-
 ---
 
 ## 📌 项目简介
 抗癌肽（Anticancer Peptides, ACPs）因具有 **高选择性、低毒性、良好渗透性** 等优点，被认为是新型肿瘤治疗方式。本项目旨在构建一个 **基于自然语言处理（NLP）与深度学习的多模态特征融合模型**，通过解析序列特征与理化性质，实现对 ACP 的高精度识别。
 
-本研究提出了一种 **CNN + 门控机制（Gate）** 的创新架构，可动态融合序列与理化特征，并在多项指标上显著优于现有 SOTA 方法。
+**CNN + 门控机制（Gate）** 的创新架构，可动态融合序列与理化特征，并在多项指标上显著优于现有 SOTA 方法。
 
 ---
 
